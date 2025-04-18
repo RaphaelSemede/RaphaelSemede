@@ -13,6 +13,6 @@
 - Boas práticas de desenvolvimento
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raphael-semede-0095bb206/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raphael-semede/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelSemede&show_icons=true&theme=radical)
